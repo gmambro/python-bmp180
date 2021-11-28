@@ -1,0 +1,4 @@
+-r common.txt
+tox >= 3.24
+black
+pytest
